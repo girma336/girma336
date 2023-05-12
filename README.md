@@ -1,44 +1,25 @@
-### Hi there  I'm Girma 👋
 
-<!--
-**girma336/girma336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Girma Tarekegn
+#### I'm Full Stack Web Developer and Electrical and computer Engineer
+![I'm Full stack web developer and Electrical and computer Engineer](https://media.licdn.com/dms/image/D4D16AQFDqcW5sPiUDw/profile-displaybackgroundimage-shrink_350_1400/0/1673626721548?e=1689206400&v=beta&t=KbTHuyY68FCzMixY_82MCvCLaiMjSeAD3AsCl6p9GNc)
 
-Here are some ideas to get you started:
+Full Stack web developer and open-source enthusiast with a love for clean code and accessible design. Pair-programming and remote work aficionado. Fluent in multiple languages, frameworks, and technologies, and capable of ramping up quickly and efficiently.
 
-- 🔭 I’m currently working on Microverse
-- 🌱 I’m currently learning Microvers
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+## About me
+- 🔭 I’m currently working on Microverse as student mentor.
+- 🌱 I love using Software as a solution for every `Problem`
+- 👯 I have a Bachiler degree in `Electrical and Computer Engineering`.
+- 🤔 I’m currently open for: `An Intern` or a new `job opportunity.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-## I'm a full-stack software developer
-- 🔭 I’m currently working on Microverse
-- 🌱 I’m currently learning Microvers
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- - 🌱 currently enrolled at Microverse, a remote software development school that uses pair-programming and real-world projects to teach development.
 
- Check My <a href="https://girma336.github.io/">Portfolio</a> -->
- 
- 
-## Skill
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>   
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-
-
-### Give a : star  ✨ :️ if you like my projects!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gir11_37) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/girma-tarekegn) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@girmatarekegn.gi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@GGt7045) 
@@ -53,7 +34,9 @@ Here are some ideas to get you started:
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@GGt7045)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 [![](https://visitcount.itsvg.in/api?id=girma336&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
