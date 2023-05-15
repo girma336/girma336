@@ -15,8 +15,7 @@ Full Stack web developer and open-source enthusiast with a love for clean code a
 - 🌱 I love using Software as a solution for every `Problem`
 - 👯 I have a Bachiler degree in `Electrical and Computer Engineering`.
 - 🤔 I’m currently open for: `An Intern` or a new `job opportunity.
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about Web development
 
 
 ## 🌐 Socials:
