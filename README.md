@@ -11,11 +11,11 @@ Full Stack web developer and open-source enthusiast with a love for clean code a
 </a>
 
 ## About me
-- 🔭 I’m currently working on Microverse as student mentor.
-- 🌱 I love using Software as a solution for every `Problem`
+- 🔭 I am currently working as a student mentor at Microverse. 
+- 🌱 I love using Software as a solution for every `Problem` 
 - 👯 I have a Bachiler degree in `Electrical and Computer Engineering`.
-- 🤔 I’m currently open for: `An Intern` or a new `job opportunity.
-- 💬 Ask me about Web development
+- 🤔 I am currently open to an internship or new job opportunity.
+- 💬 Ask me about web development.
 
 
 ## 🌐 Socials:
