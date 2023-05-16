@@ -16,6 +16,7 @@ Full Stack web developer and open-source enthusiast with a love for clean code a
 - 👯 I have a Bachelor's degree in `Electrical and Computer Engineering`.
 - 🤔 I am currently open to an internship or new job opportunity.
 - 💬 Ask me about web development.
+- If you like my project, please give it a star.
 
 
 ## 🌐 Socials:
