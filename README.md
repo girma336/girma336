@@ -13,7 +13,7 @@ Full Stack web developer and open-source enthusiast with a love for clean code a
 ## About me
 - 🔭 I am currently working as a student mentor at Microverse. 
 - 🌱 I love using Software as a solution for every `Problem` 
-- 👯 I have a Bachiler degree in `Electrical and Computer Engineering`.
+- 👯 I have a Bachelor's degree in `Electrical and Computer Engineering`.
 - 🤔 I am currently open to an internship or new job opportunity.
 - 💬 Ask me about web development.
 
